@@ -70,11 +70,11 @@ export const projects = [
     },
     {
       name: "Firebase",
-      img: "/public/firebase.png",
+      img: "/firebase.png",
     },
     {
       name: "Python",
-      img: "/public/python.png",
+      img: "/python.png",
     },
   ];
   
