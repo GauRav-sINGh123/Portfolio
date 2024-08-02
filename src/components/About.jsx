@@ -3,7 +3,7 @@ import React from 'react'
 function About() {
   return (
     <div className='w-full h-screen flex justify-center items-center flex-col'>
-      <img src="/public/static/profile.webp" alt="" className='rounded-full w-[160px] transition-all shadow-xl cursor-pointer hover:shadow-indigo-600 hover:scale-105 ease-in-out'  />
+      <img src="/profile.webp" alt="" className='rounded-full w-[160px] transition-all shadow-xl cursor-pointer hover:shadow-indigo-600 hover:scale-105 ease-in-out'  />
       <div className="flex flex-col justify-center items-center mt-6 gap-2 text-white">
          <h3 className='text-2xl'> Hi</h3>
          <h1 className='text-4xl  font-bold'>Gaurav Singh</h1>
