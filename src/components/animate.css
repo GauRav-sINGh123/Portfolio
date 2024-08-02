@@ -1,0 +1,15 @@
+@keyframes updown {
+  0% {
+    transform: translateY(0);  
+  }
+  50% {
+    transform: translateY(-40px); /* Move up */
+  }
+  100% {
+    transform: translateY(0); /* Move back to original position */
+  }
+}
+
+.image {
+  animation: updown 4s infinite linear; /* Adjust duration to 2 seconds */
+}
