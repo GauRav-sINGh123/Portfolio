@@ -2,7 +2,7 @@ export const projects = [
     {
       name: "Dread Images",
       description: "An image search application built using JS and Unsplash API",
-      img: "/public/static/dreadImage.jpg",
+      img: "/dreadImage.jpg",
       url:"https://gaurav-singh123.github.io/Image-Search-Website/",
       github: "https://github.com/gaurav-singh123/Image-Search-Website"
     },
@@ -10,7 +10,7 @@ export const projects = [
     {
       name: "AI Trip Planner",
       description: "Travel planning application built using ReactJS and Google API",
-      img: "/public/static/tripplan.jpg",
+      img: "/tripplan.jpg",
       url:"https://online-job-portal-26f13.web.app/#_",
       github:""
       
@@ -19,21 +19,21 @@ export const projects = [
       name: "PikClik",
       description:
         "An Online cloud storage application for uploading images and downloading images",
-      img: "/public/static/Pikclik.jpg",
+      img: "/Pikclik.jpg",
       url:"https://pikclik-bba5c.web.app/",
       github:"https://github.com/GauRav-sINGh123/PikClick"
     },
     {
       name: "Rayban Clone",
       description: "Rayban clone built using JS and SheryJS",
-      img: "/public/static/rayban.jpg",
+      img: "/rayban.jpg",
       url:"https://gaurav-singh123.github.io/Ray-ban-Landing-Page/",
       github:"https://github.com/GauRav-sINGh123/Ray-ban-Landing-Page"
     },
     {
       name: "Job Finder",
       description: "Job Finder app.Find Your Dream Job",
-      img: "/public/static/JobFinder.jpg",
+      img: "/JobFinder.jpg",
       url:"https://online-job-portal-26f13.web.app/#_",
       github:"https://github.com/GauRav-sINGh123/JobFinder"
     },
@@ -42,39 +42,39 @@ export const projects = [
   export const skill = [
     {
       name: "HTML",
-      img: "/public/static/html.png",
+      img: "/html.png",
     },
     {
       name: "CSS",
-      img: "/public/static/css.png",
+      img: "/css.png",
     },
     {
       name: "JAVASCRIPT",
-      img: "/public/static/javascript.png",
+      img: "/javascript.png",
     },
     {
       name: "REACT",
-      img: "/public/static/react.png",
+      img: "/react.png",
     },
     {
       name: "TAILWIND",
-      img: "/public/static/tailwindcss.png",
+      img: "/tailwindcss.png",
     },
     {
       name: "Java",
-      img: "/public/static/java.png",
+      img: "/java.png",
     },
     {
       name: "Github",
-      img: "/public/static/github.png",
+      img: "/github.png",
     },
     {
       name: "Firebase",
-      img: "/public/static/firebase.png",
+      img: "/public/firebase.png",
     },
     {
       name: "Python",
-      img: "/public/static/python.png",
+      img: "/public/python.png",
     },
   ];
   
