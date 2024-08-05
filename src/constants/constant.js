@@ -11,7 +11,7 @@ export const projects = [
       name: "AI Trip Planner",
       description: "Travel planning application built using ReactJS and Google API",
       img: "/tripplan.jpg",
-      url:"https://online-job-portal-26f13.web.app/#_",
+      url:"https://blog-85ce6.web.app/",
       github:""
       
     },
